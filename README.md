@@ -1,4 +1,4 @@
-# EYE WARE shopping mall
+# 🕶EYE WARE shopping mall🕶
 Java, Oracle, JSP 를 사용하여 쇼핑몰 홈페이지를 제작한 프로젝트입니다.
 # 
 # 개발환경
